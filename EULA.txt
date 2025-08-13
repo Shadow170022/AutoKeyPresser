@@ -1,0 +1,19 @@
+END-USER LICENSE AGREEMENT (EULA)  
+AutoKeyPresser – ViolettaSoftware
+
+1. Grant of License  
+ViolettaSoftware grants you a non-exclusive, non-transferable, royalty-free license to use the compiled executable (“Software”) for personal and commercial purposes.
+
+2. Restrictions  
+You may not decompile, reverse-engineer, disassemble, or attempt to derive the source code. You may not redistribute or sell the Software without explicit written permission.
+
+3. Ownership  
+All intellectual-property rights remain with ViolettaSoftware.
+
+4. Disclaimer  
+The Software is provided “as-is” without warranties. The author is not liable for any damages arising from its use.
+
+5. Donations  
+Voluntary donations do not confer additional rights or support obligations.
+
+© 2025 ViolettaSoftware
