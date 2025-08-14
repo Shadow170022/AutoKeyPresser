@@ -17,7 +17,7 @@ A lightweight Windows utility that lets you **record and replay keyboard macros*
 ---
 
 ## Download
-Grab the latest signed executable from the [Releases](https://github.com/Shadow170022/AutoKeyPresser/releases) page.
+Grab the latest executable from the [Releases](https://github.com/Shadow170022/AutoKeyPresser/releases) page.
 
 ---
 
